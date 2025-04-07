@@ -83,6 +83,54 @@ To uncover key insights from rape-related police reports, including trends in re
 - Stakeholder-Centric Reporting
 
 ---
+---
+
+## 📁 Project 2: British Airways – Customer Insights & Predictive Modeling
+
+### ✈️ Context
+As part of the **British Airways Data Science Job Simulation (Forage, July 2024)**, I worked on analyzing customer review data to uncover patterns in feedback and predict customer purchasing behavior.
+
+This project confirmed how much I enjoy using data to drive **business decisions** — and it sharpened both my analytical and communication skills in a real-world context.
+
+**📁 Dataset:** `british_airways_reviews.csv`  
+**📓 Notebook:** [british_airways.ipynb](./british_airways.ipynb)
+
+---
+
+### 🛫 What I Did
+
+- **Scraped and cleaned** customer review data from online sources.
+- Performed **exploratory data analysis** to understand customer sentiment.
+- Built a **predictive model** to identify key factors influencing booking decisions.
+- Presented findings in a **business-style PowerPoint** deck, highlighting actionable recommendations.
+
+---
+
+### 📈 Key Insights
+
+- **Review sentiment** had a strong correlation with purchasing behavior.
+- **Flight experience, service quality, and pricing transparency** were top decision drivers.
+- The predictive model helped rank features most likely to influence bookings, providing potential levers for customer satisfaction improvement.
+
+---
+
+### 🧰 Tools & Skills Applied
+
+- Python (Pandas, Scikit-learn, Seaborn, Matplotlib)
+- Data Cleaning & Feature Engineering
+- Logistic Regression & Model Evaluation
+- Business Communication & Stakeholder Reporting
+
+---
+
+### 💼 Real-World Impact
+
+This simulation mimicked the kind of project a **Data Science team** at British Airways might tackle. It strengthened my ability to:
+- Translate technical findings into strategic recommendations
+- Align data science outcomes with business goals
+- Deliver insights to both technical and non-technical stakeholders
+
+---
 
 ## 💼 Experience
 

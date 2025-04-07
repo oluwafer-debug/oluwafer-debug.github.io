@@ -3,7 +3,8 @@
 📍 United Kingdom  
 📧 [oluwaferanmiisola2003@gmail.com](mailto:oluwaferanmiisola2003@gmail.com)  
 📱 07933888298  
-🔗 [LinkedIn](https://www.linkedin.com/in/oluwaferanmi-isola)
+🔗 [LinkedIn](https://www.linkedin.com/in/oluwaferanmi-isola)  
+🌐 [GitHub Portfolio](https://oluwafe-debug.github.io)
 
 ---
 
@@ -12,15 +13,75 @@
 Hi! I’m Oluwaferanmi Isola — a data scientist with a Master's in Big Data Analytics and a track record of transforming raw data into actionable business insights.
 
 I’ve worked with organizations in the **UK, Finland, and Nigeria**, delivering:
-- 🧠 Predictive models for strategic planning
-- 📊 Dashboards for real-time monitoring
-- 🔄 Automated workflows that save time and money
+- 🧠 Predictive models for strategic planning  
+- 📊 Dashboards for real-time monitoring  
+- 🔄 Automated workflows that save time and money  
 
-I'm currently looking for roles in **Data Science**, **Analytics**, **Business Intelligence**, and **ML Engineering** — ideally in the UK, but I’m open to relocation.
+I'm currently looking for roles in **Data Science**, **Analytics**, **Business Intelligence**, or **ML Engineering** — ideally in the UK, but I’m open to relocation.
 
 ---
 
-## 🧑‍💼 Experience Highlights
+## 🧠 Featured Project: Unveiling the Darkness of Rape
+
+### 🔍 Overview
+This project explores patterns in sexual violence using police data from **Los Angeles (2020–2023)**. The goal is to identify insights that can assist **law enforcement, policy makers, and advocacy groups** in preventing rape and supporting survivors.
+
+**🗂️ Dataset:** [Crime Data on Kaggle](https://www.kaggle.com/datasets/sanjanchaudhari/crime-data-from-2020-to-present)  
+**📓 Notebook:** [View Analysis Notebook](./UNVEILING%20THE%20DARKNESS%20OF%20RAPE%20(1).ipynb)  
+**📍 Location:** Los Angeles, California  
+**📅 Timeframe Analyzed:** 2020–2023
+
+---
+
+### 🎯 Aim & Objectives
+
+**Aim:**  
+To uncover key insights from rape-related police reports, including trends in reporting delays, victim–perpetrator relationships, and case resolution outcomes.
+
+**Objectives:**
+- Determine how relationships with perpetrators affect reporting time and resolution.
+- Analyze timing of incidents (day vs. night, weekend vs. weekday).
+- Track year-by-year trends in case outcomes.
+- Identify barriers to case resolution.
+
+---
+
+### 📊 Key Findings
+
+- **Victim–Perpetrator Relationship:**  
+  Most offenders were acquaintances. These cases were often unresolved, especially when reported late.
+
+- **Incident Timing:**  
+  Rape was more frequent on weekends and at night, suggesting social or relational proximity to perpetrators.
+
+- **Resolution Trends:**  
+  Over 90% of cases remained open year-to-year. Reporting delay was a major contributor to this.
+
+- **Time Series Analysis:**  
+  Crime patterns spike periodically — suggesting certain days or seasons require more public safety focus.
+
+---
+
+### 👥 Stakeholder Impact
+
+- **Law Enforcement:** Targeted patrols based on peak times and zones.
+- **Policy Makers:** Improved laws around timely evidence collection and reporting procedures.
+- **Social Workers/NGOs:** Survivor-centered programs and public education.
+- **Researchers:** Foundation for building predictive crime-prevention models.
+- **Public:** Awareness to encourage timely action and support systems.
+
+---
+
+### ✅ Tools & Techniques Used
+
+- Python (Pandas, Seaborn, Matplotlib)
+- Data Cleaning & EDA
+- Time Series Analysis
+- Stakeholder-Centric Reporting
+
+---
+
+## 💼 Experience
 
 ### Data Analyst – *Bare Metal Studio (Finland)*  
 **Oct 2022 – Present**
@@ -44,18 +105,20 @@ I'm currently looking for roles in **Data Science**, **Analytics**, **Business I
 
 ## 🎓 Education
 
-**MSc, Big Data Analytics**  
-University of Derby – UK
-
-**BSc, Computer Science and Mathematics**  
-Elizade University – Nigeria | GPA: 4.16
+**MSc, Big Data Analytics** – *University of Derby, UK*  
+**BSc, Computer Science and Mathematics** – *Elizade University, Nigeria*  
+📈 *GPA: 4.16*
 
 ---
 
-## 💼 Technical Skills
+## ⚙️ Technical Skills
 
 **Languages & Tools:** Python, R, SQL, Power BI, Tableau, Scikit-learn, PyTorch, NumPy, Spark, Hadoop, Git, AWS, GCP, Azure  
-**Techniques:** Feature Engineering, ML, Predictive Analytics, A/B Testing, Data Modeling, Visualization
+**Techniques:** Feature Engineering, ML, Predictive Analytics, A/B Testing, Data Modeling, Data Cleaning, Visualization
 
+---
 
+## 💬 Contact
+
+Feel free to reach out via [email](mailto:oluwaferanmiisola2003@gmail.com) or [LinkedIn](https://www.linkedin.com/in/oluwaferanmi-isola) if you’d like to collaborate, talk data, or just say hi!
 

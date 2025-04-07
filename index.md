@@ -10,18 +10,21 @@
 
 ## 👋 Welcome
 
-Hi! I’m Oluwaferanmi Isola — a data scientist with a Master's in Big Data Analytics and a track record of transforming raw data into actionable business insights.
+Hi! I am Oluwaferanmi Isola, a graduate of the University of Derby with an MSc in Big Data Analytics. I have worked in the fields of data science, analytics, and
+ business intelligence, and I have developed predictive models, automated analytics workflows, and dashboards that have influenced learning, marketing, and
+ financial decision-making in companies in the UK, Finland, and Nigeria. I am looking for UK data roles, such as data scientist, analyst, BI, and ML engineer. I
+ bring a potent combination of technical skills (Python, SQL, ML, and Power BI), and I am open to relocation
 
 I’ve worked with organizations in the **UK, Finland, and Nigeria**, delivering:
 - 🧠 Predictive models for strategic planning  
 - 📊 Dashboards for real-time monitoring  
 - 🔄 Automated workflows that save time and money  
 
-I'm currently looking for roles in **Data Science**, **Analytics**, **Business Intelligence**, or **ML Engineering** — ideally in the UK, but I’m open to relocation.
+I'm currently looking for roles in **Data Science**, **Analytics**, **Business Intelligence**, or **ML Engineering** in the UK, but I’m open to relocation.
 
 ---
 
-## 🧠 Featured Project: Unveiling the Darkness of Rape
+## Project 1: Unveiling the Darkness of Rape
 
 ### 🔍 Overview
 This project explores patterns in sexual violence using police data from **Los Angeles (2020–2023)**. The goal is to identify insights that can assist **law enforcement, policy makers, and advocacy groups** in preventing rape and supporting survivors.
@@ -58,7 +61,7 @@ To uncover key insights from rape-related police reports, including trends in re
   Over 90% of cases remained open year-to-year. Reporting delay was a major contributor to this.
 
 - **Time Series Analysis:**  
-  Crime patterns spike periodically — suggesting certain days or seasons require more public safety focus.
+  Crime patterns spike periodically suggesting certain days or seasons require more public safety focus.
 
 ---
 
